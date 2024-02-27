@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+    <title >Career Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="header-ribbon">
+        <div class="button-group">
+            <a href="#" class="button">Fee Structure</a>
+            <div class="dropdown">
+                <button class="dropbtn">Profile</button>
+                <div class="dropdown-content">
+                    <a href="/result">Predicted Career</a>
+                    <a href="https://www.betterup.com/blog/career-books">Books for Careers</a>
+                    <a href="https://leverageedu.com/blog/great-personalities/">Inspirational Profile</a>
+                </div>
+            </div>
+            <a href="/logout" class="button">Logout</a>
+        </div>
+    </div>
+    <h3 style="color: black;">Career Compass</h3>
+    <div class="content">
+    <form id="prediction-form" class="container">
+        <label for="Englishmarks">English Marks:</label>
+        <input type="number" id="Englishmarks" name="Englishmarks" required><br><br>
+
+        <!-- Add similar input fields for other features -->
+        <label for="Socialmarks">Social Marks:</label>
+        <input type="number" id="Socialmarks" name="Socialmarks" required><br><br>
+
+        <label for="Sciencemarks">Science Marks:</label>
+        <input type="number" id="Sciencemarks" name="Sciencemarks" required><br><br>
+
+        <label for="Mathsmarks">Maths Marks:</label>
+        <input type="number" id="Mathsmarks" name="Mathsmarks" required><br><br>
+
+        <label for="Biologymarks">Biology Marks:</label>
+        <input type="number" id="Biologymarks" name="Biologymarks" required><br><br>
+
+        <label for="Interests">Interests:</label>
+        <select id="Interests" name="Interests" required>
+            <option value="">Select an interest</option>
+            <option value="Teaching">Teaching</option>
+            <option value="Medicine">Medicine</option>
+            <option value="Engineering">Engineering</option>
+            <option value="Law">Law</option>
+            <option value="Art">Art</option>
+            <option value="Music">Music</option>
+            <option value="Software Development">Software Development</option>
+            <option value="Dentistry">Dentistry</option>
+            <option value="Architecture">Architecture</option>
+            <option value="Culinary">Culinary</option>
+            <option value="Law Enforcement">Law Enforcement</option>
+            <option value="Firefighting">Firefighting</option>
+            <option value="Emergency Medical Services">Emergency Medical Services</option>
+            <option value="Psychology">Psychology</option>
+            <option value="Accounting">Accounting</option>
+            <option value="Electrical Work">Electrical Work</option>
+            <option value="Plumbing">Plumbing</option>
+            <option value="Mechanics">Mechanics</option>
+            <option value="Aviation">Aviation</option>
+            <option value="Journalism">Journalism</option>
+            <option value="Photography">Photography</option>
+            <option value="Real Estate">Real Estate</option>
+            <option value="Construction">Construction</option>
+            <option value="Social Work">Social Work</option>
+            <option value="Library Science">Library Science</option>
+            <option value="Graphic Design">Graphic Design</option>
+            <option value="Veterinary Medicine">Veterinary Medicine</option>
+            <option value="Dietetics">Dietetics</option>
+            <option value="Physical Therapy">Physical Therapy</option>
+            <option value="Interior Design">Interior Design</option>
+            <option value="Hospitality">Hospitality</option>
+            <option value="Hairdressing">Hairdressing</option>
+            <option value="Makeup Artistry">Makeup Artistry</option>
+            <option value="Tattoo Artistry">Tattoo Artistry</option>
+            <option value="Massage Therapy">Massage Therapy</option>
+            <option value="Banking">Banking</option>
+            <option value="Driving">Driving</option>
+            <option value="Welding">Welding</option>
+            <option value="Machining">Machining</option>
+            <option value="Surveying">Surveying</option>
+            <option value="Geology">Geology</option>
+            <option value="Biology">Biology</option>
+            <option value="Chemistry">Chemistry</option>
+            <option value="Physics">Physics</option>
+            <option value="Astronomy">Astronomy</option>
+            <option value="Mathematics">Mathematics</option>
+            <option value="Statistics">Statistics</option>
+            <option value="Economics">Economics</option>
+            <option value="History">History</option>
+            <option value="Archaeology">Archaeology</option>
+            <option value="Anthropology">Anthropology</option>
+            <option value="Sociology">Sociology</option>
+            <option value="Political Science">Political Science</option>
+            <option value="Linguistics">Linguistics</option>
+            <option value="Translation">Translation</option>
+            <option value="Interpretation">Interpretation</option>
+            <option value="Journalism">Journalism</option>
+            <option value="Meteorology">Meteorology</option>
+            <option value="Cartography">Cartography</option>
+            <option value="Urban Planning">Urban Planning</option>
+            <option value="Environmental Science">Environmental Science</option>
+            <option value="Marine Biology">Marine Biology</option>
+            <option value="Zoology">Zoology</option>
+            <option value="Botany">Botany</option>
+            <option value="Ecology">Ecology</option>
+            <option value="Park Management">Park Management</option>
+            <option value="Wildlife Biology">Wildlife Biology</option>
+            <option value="Tour Guiding">Tour Guiding</option>
+            <option value="Museum Studies">Museum Studies</option>
+            <option value="Archiving">Archiving</option>
+            <option value="Criminal Justice">Criminal Justice</option>
+            <option value="Private Investigation">Private Investigation</option>
+            <option value="Forensic Science">Forensic Science</option>
+            <option value="Law">Law</option>
+            <option value="Legal Assistance">Legal Assistance</option>
+            <option value="Court Reporting">Court Reporting</option>
+            <option value="Courtroom Operations">Courtroom Operations</option>
+            <option value="Corrections">Corrections</option>
+            <option value="Probation">Probation</option>
+            <option value="Animal Control">Animal Control</option>
+        </select><br><br>
+        
+
+        <label for="FinancialIncome">Financial Income:</label>
+        <input type="text" id="FinancialIncome" name="FinancialIncome" required><br><br>
+        <label for="ExtracurricularActivities">Extracurricular Activities:</label>
+        <select id="ExtracurricularActivities" name="ExtracurricularActivities" required>
+            <option value="">Select an Activity</option>
+            <option value="Robotics Club">Robotics Club</option>
+            <option value="Red Cross Volunteer">Red Cross Volunteer</option>
+            <option value="Mock Trial Team">Mock Trial Team</option>
+            <option value="Art Club President">Art Club President</option>
+            <option value="Orchestra Member">Orchestra Member</option>
+            <option value="Coding Club">Coding Club</option>
+            <option value="Shadowing Dentists">Shadowing Dentists</option>
+            <option value="Architecture Internship">Architecture Internship</option>
+            <option value="Culinary School">Culinary School</option>
+            <option value="Police Explorers">Police Explorers</option>
+            <option value="Fire Cadet Program">Fire Cadet Program</option>
+            <option value="EMT Training">EMT Training</option>
+            <option value="Psychology Research Assistant">Psychology Research Assistant</option>
+            <option value="Finance Internship">Finance Internship</option>
+            <option value="Apprenticeship">Apprenticeship</option>
+            <option value="Plumbing Apprenticeship">Plumbing Apprenticeship</option>
+            <option value="Auto Repair Club">Auto Repair Club</option>
+            <option value="Pilot Training">Pilot Training</option>
+            <option value="Journalism Club">Journalism Club</option>
+            <option value="Photography Club">Photography Club</option>
+            <option value="Real Estate Internship">Real Estate Internship</option>
+            <option value="Construction Workshop">Construction Workshop</option>
+            <option value="Social Work Volunteer">Social Work Volunteer</option>
+            <option value="Library Volunteer">Library Volunteer</option>
+            <option value="Graphic Design Club">Graphic Design Club</option>
+            <option value="Veterinary Assistant">Veterinary Assistant</option>
+            <option value="Dietitian Assistant">Dietitian Assistant</option>
+            <option value="Physical Therapy Assistant">Physical Therapy Assistant</option>
+            <option value="Interior Design Club">Interior Design Club</option>
+            <option value="Flight Attendant Training">Flight Attendant Training</option>
+            <option value="Barista Training">Barista Training</option>
+            <option value="Acting Classes">Acting Classes</option>
+            <option value="Writing Club">Writing Club</option>
+            <option value="Fashion Design Workshop">Fashion Design Workshop</option>
+            <option value="Marketing Internship">Marketing Internship</option>
+            <option value="Financial Literacy Club">Financial Literacy Club</option>
+            <option value="HR Internship">HR Internship</option>
+            <option value="Sales Training Program">Sales Training Program</option>
+            <option value="Event Planning Committee">Event Planning Committee</option>
+            <option value="Carpentry Workshop">Carpentry Workshop</option>
+            <option value="Landscaping Crew">Landscaping Crew</option>
+            <option value="Security Training">Security Training</option>
+            <option value="Fitness Club">Fitness Club</option>
+            <option value="Hairstyling Course">Hairstyling Course</option>
+            <option value="Makeup Artistry Workshop">Makeup Artistry Workshop</option>
+            <option value="Tattoo Apprenticeship">Tattoo Apprenticeship</option>
+            <option value="Massage Therapy Training">Massage Therapy Training</option>
+            <option value="Bank Teller Training">Bank Teller Training</option>
+            <option value="Bus Driver Certification">Bus Driver Certification</option>
+            <option value="Truck Driving School">Truck Driving School</option>
+            <option value="Taxi Driver Training">Taxi Driver Training</option>
+            <option value="Courier Service Internship">Courier Service Internship</option>
+            <option value="Chauffeur Apprenticeship">Chauffeur Apprenticeship</option>
+            <option value="Welding Workshop">Welding Workshop</option>
+            <option value="Machinist Apprenticeship">Machinist Apprenticeship</option>
+            <option value="Surveying Club">Surveying Club</option>
+            <option value="Geology Field Trip">Geology Field Trip</option>
+            <option value="Biology Research Club">Biology Research Club</option>
+            <option value="Chemistry Olympiad">Chemistry Olympiad</option>
+            <option value="Physics Society">Physics Society</option>
+            <option value="Astronomy Club">Astronomy Club</option>
+            <option value="Mathematics League">Mathematics League</option>
+            <option value="Statistics Workshop">Statistics Workshop</option>
+            <option value="Economics Debate Team">Economics Debate Team</option>
+            <option value="History Society">History Society</option>
+            <option value="Archaeology Excavation">Archaeology Excavation</option>
+            <option value="Anthropology Symposium">Anthropology Symposium</option>
+            <option value="Sociology Discussion Group">Sociology Discussion Group</option>
+            <option value="Political Science Seminar">Political Science Seminar</option>
+            <option value="Language Club">Language Club</option>
+            <option value="Translation Workshop">Translation Workshop</option>
+            <option value="Interpretation Training">Interpretation Training</option>
+            <option value="Foreign Correspondent Internship">Foreign Correspondent Internship</option>
+            <option value="Meteorology Club">Meteorology Club</option>
+            <option value="Cartography Workshop">Cartography Workshop</option>
+            <option value="Urban Planning Forum">Urban Planning Forum</option>
+            <option value="Environmental Conservation Project">Environmental Conservation Project</option>
+            <option value="Marine Biology Research Cruise">Marine Biology Research Cruise</option>
+            <option value="Zoology Observation Expedition">Zoology Observation Expedition</option>
+            <option value="Botany Garden Project">Botany Garden Project</option>
+            <option value="Ecology Field Study">Ecology Field Study</option>
+            <option value="Park Cleanup Crew">Park Cleanup Crew</option>
+            <option value="Wildlife Conservation Volunteer">Wildlife Conservation Volunteer</option>
+            <option value="Tour Guiding">Tour Guiding</option>
+            <option value="Museum Docent Program">Museum Docent Program</option>
+            <option value="Archives Internship">Archives Internship</option>
+            <option value="Criminal Justice Internship">Criminal Justice Internship</option>
+            <option value="Private Investigation Course">Private Investigation Course</option>
+            <option value="Forensic Science Lab">Forensic Science Lab</option>
+            <option value="Mock Trial Club">Mock Trial Club</option>
+            <option value="Paralegal Training">Paralegal Training</option>
+            <option value="Court Reporting Workshop">Court Reporting Workshop</option>
+            <option value="Courtroom Shadowing Program">Courtroom Shadowing Program</option>
+            <option value="Correctional Facility Volunteer">Correctional Facility Volunteer</option>
+            <option value="Probation Services Internship">Probation Services Internship</option>
+            <option value="Animal Shelter Volunteer">Animal Shelter Volunteer</option>
+        </select>
+        <br><br>
+        
+
+        <label for="Attendance">Attendance:</label>
+        <input type="number" id="Attendance" name="Attendance" required><br><br>
+
+        <label for="AptitudeTestScore">Aptitude Test Score (0-10):</label>
+        <input type="number" id="AptitudeTestScore" name="AptitudeTestScore" step="0.1" required><br><br>
+
+        <button type="submit">Predict</button>
+    </form>
+    </div>
+
+    <div id="prediction-result" class="container"></div>
+
+    <footer>
+        <div class="footer-item">
+            <p>Name: <span id="name1">GONTHUPULUGU LIKHIL</span></p>
+            <p>Email: <span id="email1">20pa1a051@vishnu.edu.in</span></p>
+            <p>Branch: <span id="roll1">C.S.E</span></p>
+        </div>
+        <div class="footer-item">
+            <p>Name: <span id="name2">BHOGADI NAGA VARUN</span></p>
+            <p>Email: <span id="email2">20pa1a0519@vishnu.edu.in</span></p>
+            <p>Branch: <span id="roll2">C.S.E</span></p>
+        </div>
+        <div class="footer-item">
+            <p>Name: <span id="name3">GUNUPUD KARTHIK</span></p>
+            <p>Email: <span id="email3">20pa1a051@vishnu.edu.in</span></p>
+            <p>Branch: <span id="roll3">C.S.E</span></p>
+        </div>
+    </footer>
+
+
+    <script>
+        // JavaScript code to handle form submission and redirection
+        document.getElementById('prediction-form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent default form submission
+
+            // Get form data
+            const formData = new FormData(this);
+            const data = {};
+            for (const [key, value] of formData.entries()) {
+                data[key] = value;
+            }
+
+            // Send data to Flask backend for prediction
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Redirect to the result page with predicted career
+                window.location.href = `/result?predicted_career=${data.predicted_career}`;
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>

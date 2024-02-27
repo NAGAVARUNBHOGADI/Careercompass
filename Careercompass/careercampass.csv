@@ -1,0 +1,824 @@
+Englishmarks,Socialmarks,Sciencemarks,Mathsmarks,Biologymarks,Interests,FinancialIncome,ExtracurricularActivities,Attendance,AptitudeTestScore,CareerPrediction
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate Agent
+75,70,75,80,75,Construction,70000,Construction Apprenticeship,93,82,Construction Worker
+80,75,70,75,72,Social Work,80000,Volunteer at Homeless Shelter,94,85,Social Worker
+75,80,75,80,75,Library Science,60000,Library Assistant,96,88,Librarian
+75,70,75,80,75,Design,70000,Design Club,92,82,Graphic Designer
+85,80,85,90,85,Veterinary Medicine,120000,Veterinary Assistant,97,90,Veterinarian
+80,75,75,80,72,Dietetics,80000,Dietitian Internship,96,88,Dietitian
+75,70,75,80,75,Physical Therapy,70000,Physical Therapy Aide,92,82,Physical Therapist
+75,80,75,80,75,Interior Design,80000,Interior Design Internship,94,85,Interior Designer
+80,75,70,75,72,Airline Industry,90000,Flight Attendant Training,97,90,Flight Attendant
+75,80,75,80,75,Food Service,60000,Restaurant Server,96,88,Barista
+75,70,75,80,75,Food Service,50000,Part-time Waiter/Waitress,92,82,Waiter/Waitress
+80,75,70,75,72,Bartending,70000,Bartending School,94,85,Bartender
+75,80,75,80,75,Performing Arts,80000,Acting Classes,96,88,Actor/Actress
+75,70,75,80,75,Writing,60000,Creative Writing Club,92,82,Writer
+80,75,70,75,72,Fashion,90000,Fashion Internship,94,85,Fashion Designer
+75,80,75,80,75,Marketing,70000,Marketing Internship,96,88,Marketing Manager
+80,75,70,75,72,Finance,100000,Finance Internship,97,90,Financial Analyst
+75,80,75,80,75,Human Resources,80000,HR Internship,96,88,Human Resources Manager
+75,70,75,80,75,Sales,60000,Sales Internship,92,82,Sales Representative
+80,75,70,75,72,Event Planning,70000,Event Planning Internship,94,85,Event Planner
+75,80,75,80,75,Cooking,60000,Culinary School,96,88,Chef
+75,70,75,80,75,Woodworking,50000,Woodworking Club,92,82,Carpenter
+80,75,70,75,72,Landscaping,70000,Landscaping Company Internship,94,85,Landscaper
+75,80,75,80,75,Security,60000,Security Guard Training,96,88,Security Guard
+75,70,75,80,75,Fitness,50000,Personal Trainer Certification,92,82,Fitness Trainer
+80,75,70,75,72,Hairdressing,70000,Hairdressing School,94,85,Hairdresser
+75,80,75,80,75,Makeup Artistry,60000,Makeup Artistry School,96,88,Makeup Artist
+75,70,75,80,75,Tattoo Artistry,50000,Tattoo Apprenticeship,92,82,Tattoo Artist
+80,75,70,75,72,Massage Therapy,70000,Massage Therapy School,94,85,Massage Therapist
+75,80,75,80,75,Finance,60000,Banking Internship,96,88,Bank Teller
+75,70,75,80,75,Airline Industry,50000,Flight Attendant Training,92,82,Flight Attendant
+80,75,70,75,72,Transportation,70000,CDL Training,94,85,Bus Driver
+75,80,75,80,75,Transportation,60000,Truck Driving School,96,88,Truck Driver
+75,70,75,80,75,Transportation,50000,Taxi Driver Training,92,82,Taxi Driver
+80,75,70,75,72,Courier Services,70000,Courier Company Internship,94,85,Courier
+75,80,75,80,75,Transportation,60000,Chauffeur Training,96,88,Chauffeur
+75,70,75,80,75,Welding,50000,Welding Certification,92,82,Welder
+80,75,70,75,72,Machining,70000,Machinist Apprenticeship,94,85,Machinist
+75,80,75,80,75,Surveying,60000,Surveying Internship,96,88,Surveyor
+75,70,75,80,75,Geology,50000,Geology Internship,92,82,Geologist
+80,75,70,75,72,Biology,70000,Biology Research Assistant,94,85,Biologist
+75,80,75,80,75,Chemistry,60000,Chemistry Internship,96,88,Chemist
+75,70,75,80,75,Physics,50000,Physics Internship,92,82,Physicist
+80,75,70,75,72,Astronomy,70000,Astronomy Club,94,85,Astronomer
+75,80,75,80,75,Mathematics,60000,Mathematics Tutor,96,88,Mathematician
+75,70,75,80,75,Statistics,50000,Statistics Club,92,82,Statistician
+80,75,70,75,72,Economics,70000,Economics Internship,94,85,Economist
+75,80,75,80,75,History,60000,History Club,96,88,Historian
+75,70,75,80,75,Archaeology,50000,Archaeology Internship,92,82,Archaeologist
+80,75,70,75,72,Anthropology,70000,Anthropology Internship,94,85,Anthropologist
+75,80,75,80,75,Sociology,60000,Sociology Internship,96,88,Sociologist
+75,70,75,80,75,Political Science,50000,Political Science Internship,92,82,Political Scientist
+80,75,70,75,72,Linguistics,70000,Linguistics Club,94,85,Linguist
+75,80,75,80,75,Translation,60000,Translation Internship,96,88,Translator
+75,70,75,80,75,Interpreting,50000,Interpreting Internship,92,82,Interpreter
+80,75,70,75,72,Journalism,70000,Foreign Correspondent Internship,94,85,Foreign Correspondent
+75,80,75,80,75,Meteorology,60000,Meteorology Internship,96,88,Meteorologist
+75,70,75,80,75,Cartography,50000,Cartography Internship,92,82,Cartographer
+80,75,70,75,72,Urban Planning,70000,Urban Planning Internship,94,85,Urban Planner
+75,80,75,80,75,Environmental Science,60000,Environmental Science Internship,96,88,Environmental Scientist
+75,70,75,80,75,Marine Biology,50000,Marine Biology Internship,92,82,Marine Biologist
+80,75,70,75,72,Zoology,70000,Zoology Internship,94,85,Zoologist
+75,80,75,80,75,Botany,60000,Botany Internship,96,88,Botanist
+75,70,75,80,75,Ecology,50000,Ecology Internship,92,82,Ecologist
+80,75,70,75,72,Environmental Conservation,70000,National Park Service Internship,94,85,Park Ranger
+75,80,75,80,75,Wildlife Biology,60000,Wildlife Biology Internship,96,88,Wildlife Biologist
+75,70,75,80,75,Tourism,50000,Tourism Internship,92,82,Tour Guide
+80,75,70,75,72,History,70000,Museum Internship,94,85,Museum Curator
+75,80,75,80,75,History,60000,Archives Internship,96,88,Archivist
+75,70,75,80,75,Criminal Justice,50000,Criminal Justice Internship,92,82,Criminal Investigator
+80,75,70,75,72,Criminal Justice,70000,Private Detective Internship,94,85,Private Detective
+75,80,75,80,75,Forensic Science,60000,Forensic Science Internship,96,88,Forensic Scientist
+75,70,75,80,75,Law,50000,Law Clerk Internship,92,82,Judge
+80,75,70,75,72,Legal Services,70000,Paralegal Internship,94,85,Paralegal
+75,80,75,80,75,Journalism,60000,Court Reporting Internship,96,88,Court Reporter
+75,70,75,80,75,Law Enforcement,50000,Correctional Officer Training,92,82,Correctional Officer
+80,75,70,75,72,Animal Welfare,70000,Animal Shelter Volunteer,94,85,Animal Control Officer
+85,75,90,95,88,Teaching,60000,Student Council,95,92,Teacher
+70,80,75,85,72,Medicine,120000,Volunteering at Hospital,98,88,Doctor
+80,75,85,70,78,Engineering,80000,Robotics Club,93,90,Engineer
+75,70,80,75,75,Healthcare,70000,Red Cross Volunteer,95,85,Nurse
+75,80,70,75,72,Law,100000,Mock Trial Team,96,85,Lawyer
+70,75,85,70,75,Art,50000,Art Club President,90,82,Artist
+80,70,75,80,72,Music,40000,Orchestra Member,92,80,Musician
+85,80,85,90,85,Technology,90000,Coding Club,94,88,Software Developer
+80,85,80,75,82,Medicine,150000,Shadowing Dentists,97,90,Dentist
+75,80,75,80,75,Architecture,100000,Architecture Internship,96,85,Architect
+75,75,80,75,75,Cooking,60000,Culinary School,94,80,Chef
+80,75,70,75,72,Law Enforcement,80000,Police Explorers,95,85,Police Officer
+85,80,75,80,75,Law Enforcement,75000,Fire Cadet Program,93,88,Firefighter
+75,70,75,80,75,Healthcare,70000,EMT Training,92,82,Paramedic
+75,80,70,75,72,Psychology,80000,Psychology Research Assistant,94,85,Psychologist
+85,70,80,85,80,Finance,100000,Finance Internship,95,90,Accountant
+80,75,75,80,72,Electrical Work,80000,Apprenticeship,96,88,Electrician
+75,70,75,80,75,Plumbing,75000,Plumbing Apprenticeship,92,82,Plumber
+75,80,75,80,75,Mechanical Work,70000,Auto Repair Club,94,85,Mechanic
+80,75,70,75,72,Aviation,90000,Pilot Training,97,90,Pilot
+75,80,75,80,75,Journalism,60000,School Newspaper,96,88,Journalist
+75,80,70,75,72,Photography,55000,Photography Club,94,85,Photographer
+80,75,80,85,80,Real Estate,100000,Real Estate Internship,95,90,Real Estate

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aptitude Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='quiz.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Aptitude Quiz</h1>
+        <form id="quiz-form">
+            <div class="question">
+                <p>1. What is 2 + 2?</p>
+                <input type="radio" id="q1-option1" name="q1" value="A">
+                <label for="q1-option1">A) 3</label><br>
+                <input type="radio" id="q1-option2" name="q1" value="B">
+                <label for="q1-option2">B) 4</label><br>
+                <input type="radio" id="q1-option3" name="q1" value="C">
+                <label for="q1-option3">C) 5</label><br>
+                <input type="radio" id="q1-option4" name="q1" value="D">
+                <label for="q1-option4">D) 6</label><br>
+            </div>
+
+            <div class="question">
+                <p>2. What is the square root of 144?</p>
+                <input type="radio" id="q2-option1" name="q2" value="A">
+                <label for="q2-option1">A) 10</label><br>
+                <input type="radio" id="q2-option2" name="q2" value="B">
+                <label for="q2-option2">B) 12</label><br>
+                <input type="radio" id="q2-option3" name="q2" value="C">
+                <label for="q2-option3">C) 15</label><br>
+                <input type="radio" id="q2-option4" name="q2" value="D">
+                <label for="q2-option4">D) 8</label><br>
+            </div>
+
+            <div class="question">
+                <p>3. What is the result of 5 * 6?</p>
+                <input type="radio" id="q3-option1" name="q3" value="A">
+                <label for="q3-option1">A) 25</label><br>
+                <input type="radio" id="q3-option2" name="q3" value="B">
+                <label for="q3-option2">B) 30</label><br>
+                <input type="radio" id="q3-option3" name="q3" value="C">
+                <label for="q3-option3">C) 20</label><br>
+                <input type="radio" id="q3-option4" name="q3" value="D">
+                <label for="q3-option4">D) 35</label><br>
+            </div>
+            
+            <div class="question">
+                <p>4. What is the result of 18 / 3?</p>
+                <input type="radio" id="q4-option1" name="q4" value="A">
+                <label for="q4-option1">A) 4</label><br>
+                <input type="radio" id="q4-option2" name="q4" value="B">
+                <label for="q4-option2">B) 6</label><br>
+                <input type="radio" id="q4-option3" name="q4" value="C">
+                <label for="q4-option3">C) 3</label><br>
+                <input type="radio" id="q4-option4" name="q4" value="D">
+                <label for="q4-option4">D) 8</label><br>
+            </div>
+            
+            <div class="question">
+                <p>5. What is 3 squared?</p>
+                <input type="radio" id="q5-option1" name="q5" value="A">
+                <label for="q5-option1">A) 6</label><br>
+                <input type="radio" id="q5-option2" name="q5" value="B">
+                <label for="q5-option2">B) 9</label><br>
+                <input type="radio" id="q5-option3" name="q5" value="C">
+                <label for="q5-option3">C) 3</label><br>
+                <input type="radio" id="q5-option4" name="q5" value="D">
+                <label for="q5-option4">D) 12</label><br>
+            </div>
+            
+            <div class="question">
+                <p>6. What is 15 % 4?</p>
+                <input type="radio" id="q6-option1" name="q6" value="A">
+                <label for="q6-option1">A) 3</label><br>
+                <input type="radio" id="q6-option2" name="q6" value="B">
+                <label for="q6-option2">B) 1</label><br>
+                <input type="radio" id="q6-option3" name="q6" value="C">
+                <label for="q6-option3">C) 2</label><br>
+                <input type="radio" id="q6-option4" name="q6" value="D">
+                <label for="q6-option4">D) 4</label><br>
+            </div>
+            
+            <div class="question">
+                <p>7. What is the result of 7 + 9?</p>
+                <input type="radio" id="q7-option1" name="q7" value="A">
+                <label for="q7-option1">A) 14</label><br>
+                <input type="radio" id="q7-option2" name="q7" value="B">
+                <label for="q7-option2">B) 16</label><br>
+                <input type="radio" id="q7-option3" name="q7" value="C">
+                <label for="q7-option3">C) 18</label><br>
+                <input type="radio" id="q7-option4" name="q7" value="D">
+                <label for="q7-option4">D) 12</label><br>
+            </div>
+            
+            <div class="question">
+                <p>8. What is the result of 13 - 5?</p>
+                <input type="radio" id="q8-option1" name="q8" value="A">
+                <label for="q8-option1">A) 9</label><br>
+                <input type="radio" id="q8-option2" name="q8" value="B">
+                <label for="q8-option2">B) 8</label><br>
+                <input type="radio" id="q8-option3" name="q8" value="C">
+                <label for="q8-option3">C) 7</label><br>
+                <input type="radio" id="q8-option4" name="q8" value="D">
+                <label for="q8-option4">D) 6</label><br>
+            </div>
+            
+            <div class="question">
+                <p>9. What is the result of 3 * 4?</p>
+                <input type="radio" id="q9-option1" name="q9" value="A">
+                <label for="q9-option1">A) 9</label><br>
+                <input type="radio" id="q9-option2" name="q9" value="B">
+                <label for="q9-option2">B) 12</label><br>
+                <input type="radio" id="q9-option3" name="q9" value="C">
+                <label for="q9-option3">C) 15</label><br>
+                <input type="radio" id="q9-option4" name="q9" value="D">
+                <label for="q9-option4">D) 18</label><br>
+            </div>
+            
+            <div class="question">
+                <p>10. What is the result of 20 / 5?</p>
+                <input type="radio" id="q10-option1" name="q10" value="A">
+                <label for="q10-option1">A) 4</label><br>
+                <input type="radio" id="q10-option2" name="q10" value="B">
+                <label for="q10-option2">B) 4</label><br>
+                <input type="radio" id="q10-option3" name="q10" value="C">
+                <label for="q10-option3">C) 3</label><br>
+                <input type="radio" id="q10-option4" name="q10" value="D">
+                <label for="q10-option4">D) 2</label><br>
+            </div>
+            
+
+            <!-- Add more questions here -->
+            <a class="prev-btn" href="/tests">Previous Page</a>
+            <button class="submit-btn">Submit</button>
+        </form>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        const quizForm = document.getElementById('quiz-form');
+        quizForm.addEventListener('submit', function(event) {
+            event.preventDefault();
+            
+            const formData = new FormData(this);
+            let score = 0;
+            
+            for (let i = 1; i <= 10; i++) {
+                const questionNumber = 'q' + i;
+                const selectedOption = formData.get(questionNumber);
+                if (selectedOption === 'B') { // Assuming 'B' is the correct answer for all questions
+                    score += 1;
+                }
+            }
+            
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = `<h2>Your Score: ${score}/10</h2>`;
+            resultDiv.innerHTML += `<p>Total Score: ${score}</p>`;
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            const radioButtons = document.querySelectorAll('.question input[type="radio"]');
+            const labels = document.querySelectorAll('.question label');
+
+            radioButtons.forEach((radioButton, index) => {
+                radioButton.addEventListener('change', () => {
+                    labels.forEach(label => {
+                        label.classList.remove('selected');
+                    });
+                    labels[index].classList.add('selected');
+                });
+            });
+        });
+    </script>
+</body>
+</html>

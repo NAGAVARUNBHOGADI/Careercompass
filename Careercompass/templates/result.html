@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+</head>
+<body>
+    <div class="header-ribbon">
+        <a href="/home" class="button">Home</a>
+        <div class="dropdown">
+            <button class="dropbtn">Profile</button>
+            <div class="dropdown-content">
+                <a href="/result">Predicted Career</a>
+                <a href="https://www.betterup.com/blog/career-books">Books for Careers</a>
+                <a href="https://leverageedu.com/blog/great-personalities/">Inspirational Profile</a>
+            </div>
+        </div>
+        <a href="/Chatbot" class="button">Chatbot</a>
+    </div>
+
+    <div class="content-container">
+        <!-- Your content here -->
+        <div class="popup-container">
+            <span class="close-btn" onclick="closePopup()">&times;</span>
+            <h2 class="popup-title">Predicted Career</h2>
+            <div class="popup-content">
+                <p>{{ predicted_career }}</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-item">
+            <p>Name: <span id="name2">BHOGADI NAGA VARUN</span></p>
+            <p>Email: <span id="email2">20pa1a0519@vishnu.edu.in</span></p>
+            <p>Branch: <span id="roll2">C.S.E</span></p>
+        </div>
+
+        <div class="footer-item">
+            <p>Name: <span id="name1">GONTHUPULUGU LIKHIL</span></p>
+            <p>Email: <span id="email1">20pa1a051@vishnu.edu.in</span></p>
+            <p>Branch: <span id="roll1">C.S.E</span></p>
+        </div>
+        
+        <div class="footer-item">
+            <p>Name: <span id="name3">GUNUPUD KARTHIK</span></p>
+            <p>Email: <span id="email3">20pa1a051@vishnu.edu.in</span></p>
+            <p>Branch: <span id="roll3">C.S.E</span></p>
+        </div>
+    </footer>
+    
+
+    <script>
+        // Close the popup
+        function closePopup() {
+            document.querySelector('.popup-container').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

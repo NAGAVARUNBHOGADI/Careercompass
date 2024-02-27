@@ -1,0 +1,90 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f3f7; /* Light blue-gray */
+}
+
+/* Container styling */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(135deg, #fce38a 10%, #f38181 100%); /* Gradient background */
+}
+
+/* Test options styling */
+.test-options {
+    display: grid;
+    grid-template-columns: repeat(2, 200px); /* Adjust column count and width as needed */
+    grid-gap: 20px;
+    text-align: center;
+}
+
+.test-option {
+    background-color: #ffffff; /* White */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow */
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.test-option:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Slightly darker shadow */
+}
+
+/* Test option colors */
+.test-option:nth-child(1) {
+    background-color: #f76c6c; /* Red */
+}
+
+.test-option:nth-child(2) {
+    background-color: #55c57a; /* Green */
+}
+
+.test-option:nth-child(3) {
+    background-color: #4e6bff; /* Blue */
+}
+
+.test-option:nth-child(4) {
+    background-color: #ff9f43; /* Orange */
+}
+
+/* Text color for test option links */
+.test-option a {
+    text-decoration: none;
+    color: #333333; /* Dark gray */
+    font-weight: bold;
+}
+
+.test-option a:hover {
+    color: #000000; /* Black */
+}
+
+/* Next page button styling */
+.next-page {
+  margin-top: 300px;
+  margin-left: 0%;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6f61;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #ff9b8a;
+}

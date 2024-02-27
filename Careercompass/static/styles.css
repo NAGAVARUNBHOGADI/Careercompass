@@ -1,0 +1,186 @@
+/* Body styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling */
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styling */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Form styling */
+form {
+    margin-bottom: 20px;
+}
+
+/* Label styling */
+form label {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 5px;
+    text-align: center;
+    color: #1b2b729d;
+    font-weight: bold;
+}
+
+/* Input and select styling */
+form input[type="text"],
+form input[type="number"],
+form select {
+    width: calc(50% - 10px); /* Adjusted width */
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #390ad5;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+form input[type="text"]:focus,
+form input[type="number"]:focus,
+form select:focus {
+    border-color: #4CAF50;
+}
+
+/* Button styling */
+form button {
+    display: block;
+    margin: 0 auto;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+
+/* Header ribbon styling */
+.header-ribbon {
+    background-color: #333;
+    color: #fff;
+    padding: 15px 20px; /* Increase padding for larger ribbon */
+    text-align: left;
+    position: fixed; /* Position fixed */
+    top: 0; /* Align to the top of the page */
+    left: 0; /* Align to the left of the page */
+    width: 100%; /* Take full width of the page */
+    z-index: 1000; /* Ensure it's above other content */
+}
+
+.button-group {
+    margin-left: 20px;
+}
+
+.button {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+.button-group {
+    margin-left: 20px; /* Adjust margin as needed */
+}
+
+.button {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+.content {
+    margin-top: 80px; /* Adjust this value as needed */
+    margin-bottom: 80px;
+}
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0; /* Reduced padding */
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+}
+
+.footer-item {
+    width: calc(100% / 3); /* Divide the width evenly among the three items */
+    font-size: 14px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin-right: 20px; /* Add some margin to separate items */
+}
+
+/* Dropdown button styling */
+.dropbtn {
+    background-color: #4CAF50; /* Green background color */
+    color: white;
+    padding: 12px 16px; /* Adjust padding for better appearance */
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px; /* Add some border radius */
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9; /* Light gray background color */
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 4px; /* Add some border radius */
+    overflow: hidden; /* Hide overflow content */
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd; /* Light gray background color on hover */
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button on hover */
+.dropbtn:hover {
+    background-color: #3e8e41; /* Dark green background color on hover */
+}
